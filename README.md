@@ -156,7 +156,7 @@ Calculate the following expression
 
  -10^9 < a, b < 10^9
   
-## arithmetic007
+## arithmetic008
 Given a and b integer numbers.\
 
 Find the percentage b of number a
@@ -170,6 +170,28 @@ Find the percentage b of number a
 |---------------|-----------------|
 |100 5             |5                  |
 |20 200            |40                 |
+
+**Constraints:** 
+
+ -10^9 < a, b < 10^9
+
+  ## arithmetic009
+Given a and b integer numbers.\
+Calculate the following expression
+
+
+<img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20a%5E2&plus;b%5E2" />
+ 
+
+**Example :**
+
+**Input**: *a,b (int)*.\
+**Output**: *Return answer (int)*.
+
+|   **Input**   |   **Output**    |
+|---------------|-----------------|
+|13 5             |3                  |
+|23 10            |3                 |
 
 **Constraints:** 
 
