@@ -149,11 +149,29 @@ Calculate the following expression
 
 |   **Input**   |   **Output**    |
 |---------------|-----------------|
-|2 6            |64                  |
-|3 5            |243                 |
+|13 5             |3                  |
+|23 10            |3                 |
 
 **Constraints:** 
 
  -10^9 < a, b < 10^9
   
+## arithmetic007
+Given a and b integer numbers.\
 
+Find the percentage b of number a
+
+**Example :**
+
+**Input**: *a,b (int)*.\
+**Output**: *Return answer (int)*.
+
+|   **Input**   |   **Output**    |
+|---------------|-----------------|
+|100 5             |5                  |
+|20 200            |40                 |
+
+**Constraints:** 
+
+ -10^9 < a, b < 10^9
+  
