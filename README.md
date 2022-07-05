@@ -455,8 +455,8 @@ Calculate the following expression
 
 |   **Input**   |   **Output**    |
 |---------------|-----------------|
-|1 11 3             |2.0             |
-|2 4 6              |0.5                 |
+|1 11 3             |24.2             |
+|2 4 6              |0.8                 |
 
 **Constraints:** 
 
@@ -477,8 +477,8 @@ Calculate the following expression
 
 |   **Input**   |   **Output**    |
 |---------------|-----------------|
-|1 11 3             |2.0             |
-|2 4 6              |0.5                 |
+|1 11 3             |30.125             |
+|2 4 6              |-1.07                 |
 
 **Constraints:** 
 
@@ -499,8 +499,8 @@ Calculate the following expression
 
 |   **Input**   |   **Output**    |
 |---------------|-----------------|
-|1 11 3             |2.0             |
-|2 4 6              |0.5                 |
+|1 11 3             |0.9             |
+|2 4 6              |0                 |
 
 **Constraints:** 
 
