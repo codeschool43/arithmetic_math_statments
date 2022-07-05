@@ -1,5 +1,4 @@
 # Arithmetic oparation Math statments
-# Welcome 
 
 # Problems
 
