@@ -7,7 +7,7 @@ Given a and b integer numbers.\
 Calculate the following expression
 
 
-<img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20a&plus;b" />.
+<img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20a&plus;b" />
  
 
 **Example :**
@@ -29,7 +29,7 @@ Given a and b integer numbers.\
 Calculate the following expression
 
 
-<img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20a-b" />.
+<img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20a-b" />
  
 
 **Example :**
@@ -73,7 +73,7 @@ Given a and b integer numbers.\
 Calculate the following expression
 
 
-<img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20\frac{a}{b} " />.
+<img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20\frac{a}{b} " />
  
 
 **Example :**
@@ -95,7 +95,7 @@ Given a and b integer numbers.\
 Calculate the following expression
 
 
-<img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20\frac{a}{b} " />.
+<img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20\frac{a}{b} " />
  
 
 **Example :**
@@ -117,7 +117,7 @@ Given a and b integer numbers.\
 Calculate the following expression
 
 
-<img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20a^b" />.
+<img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20a^b" />
  
 
 **Example :**
@@ -139,7 +139,7 @@ Given a and b integer numbers.\
 Calculate the following expression
 
 
-<img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20a \mod b " />.
+<img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20a%20%5Cmod%20b" />
  
 
 **Example :**
