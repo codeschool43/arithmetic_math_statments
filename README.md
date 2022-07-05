@@ -1057,7 +1057,7 @@ Given a and b integer numbers.\
 Calculate the following expression
 
 
-<img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20a%5Ccdot%20b%20%5C%20-%202%5Ccdot%20b&plus;%5Cfrac%7Ba%7D%7B2%7D" />
+<img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20%28a%5Ccdot%20b%20-%202%5Ccdot%20b%29%5Ccdot%20%28a%5Ccdot%20b&plus;%5Cfrac%7Ba%7D%7B2%7D%29" />
  
 
 **Example :**
@@ -1067,7 +1067,7 @@ Calculate the following expression
 
 |   **Input**   |   **Output**    |
 |---------------|-----------------|
-|2 4            |1.0              |
+|2 4            |0              |
 
 **Constraints:** 
 
@@ -1078,7 +1078,7 @@ Given a and b integer numbers.\
 Calculate the following expression
 
 
-<img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20a%5Ccdot%20b%20%5C%20-%202%5Ccdot%20b&plus;%5Cfrac%7Ba%7D%7B2%7D&plus;%5Cfrac%7Bb%7D%7B2%7D" />
+<img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20%28%5Cfrac%7Ba&plus;3%7D%7B4%7D&plus;%5Cfrac%7Bb&plus;a%7D%7B4%7D%29%5Ccdot%20%5Cfrac%7Ba%5Ccdot%20b%7D%7Bb%5E2%7D" />
  
 
 **Example :**
@@ -1088,7 +1088,7 @@ Calculate the following expression
 
 |   **Input**   |   **Output**    |
 |---------------|-----------------|
-|2 4            |3.0              |
+|2 4            |1.375              |
 
 **Constraints:** 
 
