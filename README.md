@@ -572,7 +572,7 @@ Calculate the following expression
 
  -10^9 < a, b < 10^9
 
-  ## arithmetic026
+  ## arithmetic027
 Given a  integer number.\
 Calculate the following expression
 
@@ -589,6 +589,72 @@ Calculate the following expression
 |---------------|-----------------|
 |6             |14.0              |
 |9            |21.0               |
+
+**Constraints:** 
+
+ -10^9 < a, b < 10^9
+
+   ## arithmetic028
+Given a and b integer numbers.\
+Calculate the following expression
+
+
+<img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20%5Cfrac%7Ba%7D%7B2%7D&plus;%5Cfrac%7Bb%7D%7B3%7D" />
+ 
+
+**Example :**
+
+**Input**: *a,b (int)*.\
+**Output**: *Return answer (float)*.
+
+|   **Input**   |   **Output**    |
+|---------------|-----------------|
+|2 3            |2.0              |
+|2 6            |3.0               |
+
+**Constraints:** 
+
+ -10^9 < a, b < 10^9
+
+ ## arithmetic029
+Given a and b integer numbers.\
+Calculate the following expression
+
+
+<img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20%5Cfrac%7Ba%7D%7B2%7D&plus;%5Cfrac%7Bb%7D%7B3%7D&plus;2%5Ccdot%20a%5Ccdot%20b" />
+ 
+
+**Example :**
+
+**Input**: *a,b (int)*.\
+**Output**: *Return answer (float)*.
+
+|   **Input**   |   **Output**    |
+|---------------|-----------------|
+|2 3            |14.0              |
+|2 6            |27.0               |
+
+**Constraints:** 
+
+ -10^9 < a, b < 10^9
+
+  ## arithmetic030
+Given a and b integer numbers.\
+Calculate the following expression
+
+
+<img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20%5Cfrac%7Ba&plus;b%7D%7B2%7D&plus;%5Cfrac%7Bb%7D%7B4%7D" />
+ 
+
+**Example :**
+
+**Input**: *a,b (int)*.\
+**Output**: *Return answer (float)*.
+
+|   **Input**   |   **Output**    |
+|---------------|-----------------|
+|2 4            |4.0              |
+|2 6            |5.5               |
 
 **Constraints:** 
 
