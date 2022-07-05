@@ -438,3 +438,70 @@ Calculate the following expression
 **Constraints:** 
 
  -10^9 < a, b < 10^9
+
+
+  ## arithmetic021
+Given a,b and c integer numbers.\
+Calculate the following expression
+
+
+<img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20%5Cfrac%7B2%5Ccdot%20b%5E2%7D%7Ba&plus;c%5E2%7D" />
+ 
+
+**Example :**
+
+**Input**: *a,b,c (int)*.\
+**Output**: *Return answer (float)*.
+
+|   **Input**   |   **Output**    |
+|---------------|-----------------|
+|1 11 3             |2.0             |
+|2 4 6              |0.5                 |
+
+**Constraints:** 
+
+ -10^9 < a, b < 10^9
+
+  ## arithmetic022
+Given a,b and c integer numbers.\
+Calculate the following expression
+
+
+<img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20%5Cfrac%7B2%5Ccdot%20b%5E2-a%7D%7Ba%5E3-c%5E2%7D" />
+ 
+
+**Example :**
+
+**Input**: *a,b,c (int)*.\
+**Output**: *Return answer (float)*.
+
+|   **Input**   |   **Output**    |
+|---------------|-----------------|
+|1 11 3             |2.0             |
+|2 4 6              |0.5                 |
+
+**Constraints:** 
+
+ -10^9 < a, b < 10^9
+
+  ## arithmetic023
+Given a.b and c integer numbers.\
+Calculate the following expression
+
+
+<img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20%5Cfrac%7Bb-2%5Ccdot%20a%7D%7Ba&plus;c%5E2%7D" />
+ 
+
+**Example :**
+
+**Input**: *a,b,c (int)*.\
+**Output**: *Return answer (float)*.
+
+|   **Input**   |   **Output**    |
+|---------------|-----------------|
+|1 11 3             |2.0             |
+|2 4 6              |0.5                 |
+
+**Constraints:** 
+
+ -10^9 < a, b < 10^9
