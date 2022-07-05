@@ -6,7 +6,7 @@
 Calculate the following expression.\
 Given a and b integer numbers:
 
- <img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20a&plus;b" />.
+\t <img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20a&plus;b" />.
  
 
 **Example 1:**
