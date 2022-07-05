@@ -427,13 +427,13 @@ Calculate the following expression
 
 **Example :**
 
-**Input**: *a,b (int)*.\
+**Input**: *a,b,c (int)*.\
 **Output**: *Return answer (float)*.
 
 |   **Input**   |   **Output**    |
 |---------------|-----------------|
-|10 4             |13.0             |
-|3 1              |5.0                 |
+|1 11 3             |2.0             |
+|2 4 6              |0.5                 |
 
 **Constraints:** 
 
