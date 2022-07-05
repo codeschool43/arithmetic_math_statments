@@ -549,3 +549,47 @@ Calculate the following expression
 **Constraints:** 
 
  -10^9 < a, b < 10^9
+
+ ## arithmetic026
+Given a  integer number.\
+Calculate the following expression
+
+
+<img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20%5Cfrac%7Ba%7D%7B2%7D" />
+ 
+
+**Example :**
+
+**Input**: *a (int)*.\
+**Output**: *Return answer (float)*.
+
+|   **Input**   |   **Output**    |
+|---------------|-----------------|
+|2             |1.0              |
+|7            |3.5               |
+
+**Constraints:** 
+
+ -10^9 < a, b < 10^9
+
+  ## arithmetic026
+Given a  integer number.\
+Calculate the following expression
+
+
+<img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20%5Cfrac%7Ba%7D%7B3%7D&plus;2%5Ccdot%20a" />
+ 
+
+**Example :**
+
+**Input**: *a (int)*.\
+**Output**: *Return answer (float)*.
+
+|   **Input**   |   **Output**    |
+|---------------|-----------------|
+|6             |14.0              |
+|9            |21.0               |
+
+**Constraints:** 
+
+ -10^9 < a, b < 10^9
