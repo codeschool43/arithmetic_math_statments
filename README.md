@@ -21,7 +21,7 @@ Given a and b integer numbers:
 
 **Constraints:** 
 
-    -10^9 < a, b < 10^9
+-10^9 < a, b < 10^9
 
   
 
