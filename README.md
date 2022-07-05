@@ -19,7 +19,9 @@ Given a and b integer numbers:
 |4 5            |9                |
 |7 8            |15               |
 
-<!-- **Constraints:** a,b  -->
+**Constraints:** 
+
+    -10^9 < a, b < 10^9
 
   
 
