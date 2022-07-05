@@ -159,7 +159,7 @@ Calculate the following expression
 ## arithmetic008
 Given a and b integer numbers.\
 Calculate the following expression
-<img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20a^2\cdot b^3" />
+<img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20a%5E2%5Ccdot%20b%5E3" />
 
 **Example :**
 
@@ -168,8 +168,8 @@ Calculate the following expression
 
 |   **Input**   |   **Output**    |
 |---------------|-----------------|
-|100 5             |5                  |
-|20 200            |40                 |
+|2 5             |500                 |
+|3 4            |576                 |
 
 **Constraints:** 
 
@@ -300,8 +300,8 @@ Calculate the following expression
 
 |   **Input**   |   **Output**    |
 |---------------|-----------------|
-|2 4             |216                  |
-|1 3             |64                 |
+|2 4             |8                  |
+|1 3             |8                 |
 
 **Constraints:** 
 
@@ -345,7 +345,7 @@ Calculate the following expression
 |   **Input**   |   **Output**    |
 |---------------|-----------------|
 |10 2             |-2.5                  |
-|32 4              |-4                 |
+|32 4              |-4.0                 |
 
 **Constraints:** 
 
@@ -366,7 +366,7 @@ Calculate the following expression
 
 |   **Input**   |   **Output**    |
 |---------------|-----------------|
-|10 4             |13.0             |
+|10 4             |3.25             |
 |3 1              |5.0                 |
 
 **Constraints:** 
@@ -410,8 +410,8 @@ Calculate the following expression
 
 |   **Input**   |   **Output**    |
 |---------------|-----------------|
-|10 4             |13.0             |
-|3 1              |5.0                 |
+|10 4             |105.8             |
+|3 1              |10.6                 |
 
 **Constraints:** 
 
