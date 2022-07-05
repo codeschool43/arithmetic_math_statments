@@ -527,3 +527,25 @@ Calculate the following expression
 **Constraints:** 
 
  -10^9 < a, b < 10^9
+
+  ## arithmetic025
+Given a and b integer numbers.\
+Calculate the following expression
+
+
+<img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20%5Cfrac%7B2%5Ccdot%20a%5Ccdot%20%28a&plus;b%29%7D%7B4%5Ccdot%20a%7D" />
+ 
+
+**Example :**
+
+**Input**: *a,b (int)*.\
+**Output**: *Return answer (float)*.
+
+|   **Input**   |   **Output**    |
+|---------------|-----------------|
+|2 3            |2.5              |
+|2 4            |3.0               |
+
+**Constraints:** 
+
+ -10^9 < a, b < 10^9
