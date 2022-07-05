@@ -90,4 +90,26 @@ Calculate the following expression
 
  -10^9 < a, b < 10^9
   
+ ## arithmetic005
+Given a and b integer numbers.\
+Calculate the following expression
+
+
+<img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20a:b" />.
+ 
+
+**Example :**
+
+**Input**: *a,b (int)*.\
+**Output**: *Return answer (float)*.
+
+|   **Input**   |   **Output**    |
+|---------------|-----------------|
+|12 6            |2.0                 |
+|18 5            |3.6                 |
+
+**Constraints:** 
+
+ -10^9 < a, b < 10^9
+  
 
