@@ -11,7 +11,7 @@ Given a and b integer numbers:
 
 **Example 1:**
 
-**Input**:*a,b (int)*.\
+**Input**: *a,b (int)*.\
 **Output**: *Return answer (int)*.
 
 |   **Input**   |   **Output**    |
@@ -21,7 +21,7 @@ Given a and b integer numbers:
 
 **Constraints:** 
 
--10^9 < a, b < 10^9
+    -10^9 < a, b < 10^9
 
   
 
