@@ -882,3 +882,216 @@ Calculate the following expression
 
  -10^9 < a, b < 10^9 
 
+ ## arithmetic041
+Given a and b integer numbers.\
+Calculate the following expression
+
+
+<img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20%5Cfrac%7Bb%7D%7B2%7D&plus;a" />
+ 
+
+**Example :**
+
+**Input**: *a,b (int)*.\
+**Output**: *Return answer (float)*.
+
+|   **Input**   |   **Output**    |
+|---------------|-----------------|
+|2 4            |4.0              |
+|2 6            |5.0               |
+
+**Constraints:** 
+
+ -10^9 < a, b < 10^9 
+
+ ## arithmetic042
+Given a and b integer numbers.\
+Calculate the following expression
+
+
+<img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20%5Cfrac%7Bb%7D%7Ba%7D%5Ccdot%20%5Cfrac%7Ba%7D%7Bb%7D" />
+ 
+
+**Example :**
+
+**Input**: *a,b (int)*.\
+**Output**: *Return answer (float)*.
+
+|   **Input**   |   **Output**    |
+|---------------|-----------------|
+|2 4            |1.0              |
+
+**Constraints:** 
+
+ -10^9 < a, b < 10^9 
+
+  ## arithmetic043
+Given a and b integer numbers.\
+Calculate the following expression
+
+
+<img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20a&plus;b&plus;2%5Ccdot%20a" />
+ 
+
+**Example :**
+
+**Input**: *a,b (int)*.\
+**Output**: *Return answer (int)*.
+
+|   **Input**   |   **Output**    |
+|---------------|-----------------|
+|2 4            |10              |
+
+**Constraints:** 
+
+ -10^9 < a, b < 10^9
+
+   ## arithmetic044
+Given a and b integer numbers.\
+Calculate the following expression
+
+
+<img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20a&plus;b&plus;2%5Ccdot%20a&plus;a%5E2" />
+ 
+
+**Example :**
+
+**Input**: *a,b (int)*.\
+**Output**: *Return answer (int)*.
+
+|   **Input**   |   **Output**    |
+|---------------|-----------------|
+|2 4            |14              |
+
+**Constraints:** 
+
+ -10^9 < a, b < 10^9 
+
+## arithmetic045
+Given a and b integer numbers.\
+Calculate the following expression
+
+
+<img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20a&plus;b&plus;2%5Ccdot%20a&plus;b%5E2" />
+ 
+
+**Example :**
+
+**Input**: *a,b (int)*.\
+**Output**: *Return answer (int)*.
+
+|   **Input**   |   **Output**    |
+|---------------|-----------------|
+|2 4            |14              |
+
+**Constraints:** 
+
+ -10^9 < a, b < 10^9  
+
+ ## arithmetic046
+Given a and b integer numbers.\
+Calculate the following expression
+
+
+<img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20a%5Ccdot%20b%20%5C%20-%202%5Ccdot%20a" />
+ 
+
+**Example :**
+
+**Input**: *a,b (int)*.\
+**Output**: *Return answer (int)*.
+
+|   **Input**   |   **Output**    |
+|---------------|-----------------|
+|2 4            |4              |
+
+**Constraints:** 
+
+ -10^9 < a, b < 10^9 
+
+ ## arithmetic047
+Given a and b integer numbers.\
+Calculate the following expression
+
+
+<img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20a%5Ccdot%20b%20%5C%20-%202%5Ccdot%20b" />
+ 
+
+**Example :**
+
+**Input**: *a,b (int)*.\
+**Output**: *Return answer (int)*.
+
+|   **Input**   |   **Output**    |
+|---------------|-----------------|
+|2 4            |0              |
+
+**Constraints:** 
+
+ -10^9 < a, b < 10^9 
+
+  ## arithmetic048
+Given a and b integer numbers.\
+Calculate the following expression
+
+
+<img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20a%5Ccdot%20b%20%5C%20-%202%5Ccdot%20b&plus;a%5E2" />
+ 
+
+**Example :**
+
+**Input**: *a,b (int)*.\
+**Output**: *Return answer (int)*.
+
+|   **Input**   |   **Output**    |
+|---------------|-----------------|
+|2 4            |4              |
+
+**Constraints:** 
+
+ -10^9 < a, b < 10^9 
+ 
+
+  ## arithmetic049
+Given a and b integer numbers.\
+Calculate the following expression
+
+
+<img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20a%5Ccdot%20b%20%5C%20-%202%5Ccdot%20b&plus;%5Cfrac%7Ba%7D%7B2%7D" />
+ 
+
+**Example :**
+
+**Input**: *a,b (int)*.\
+**Output**: *Return answer (float)*.
+
+|   **Input**   |   **Output**    |
+|---------------|-----------------|
+|2 4            |1.0              |
+
+**Constraints:** 
+
+ -10^9 < a, b < 10^9 
+
+   ## arithmetic050
+Given a and b integer numbers.\
+Calculate the following expression
+
+
+<img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20a%5Ccdot%20b%20%5C%20-%202%5Ccdot%20b&plus;%5Cfrac%7Ba%7D%7B2%7D&plus;%5Cfrac%7Bb%7D%7B2%7D" />
+ 
+
+**Example :**
+
+**Input**: *a,b (int)*.\
+**Output**: *Return answer (float)*.
+
+|   **Input**   |   **Output**    |
+|---------------|-----------------|
+|2 4            |3.0              |
+
+**Constraints:** 
+
+ -10^9 < a, b < 10^9 
+ 
+
