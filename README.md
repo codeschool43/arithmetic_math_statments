@@ -40,7 +40,7 @@ Calculate the following expression
 |   **Input**   |   **Output**    |
 |---------------|-----------------|
 |45 7            |38                |
-|12 4            |4                |
+|12 4            |8                |
 
 **Constraints:** 
 
