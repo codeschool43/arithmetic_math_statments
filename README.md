@@ -51,7 +51,7 @@ Given a and b integer numbers.\
 Calculate the following expression
 
 
-<img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20a\cdot b " />
+<img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20a%5Ccdot%20b" />
  
 
 **Example :**
@@ -158,8 +158,8 @@ Calculate the following expression
   
 ## arithmetic008
 Given a and b integer numbers.\
-
-Find the percentage b of number a
+Calculate the following expression
+<img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20a^2\cdot b^3" />
 
 **Example :**
 
@@ -401,6 +401,28 @@ Calculate the following expression
 
 
 <img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20a%5E2&plus;2%5Ccdot%20%5Cfrac%7Ba%5E2&plus;b%5E2%7D%7B4%5Ccdot%20a%20%7D" />
+ 
+
+**Example :**
+
+**Input**: *a,b (int)*.\
+**Output**: *Return answer (float)*.
+
+|   **Input**   |   **Output**    |
+|---------------|-----------------|
+|10 4             |13.0             |
+|3 1              |5.0                 |
+
+**Constraints:** 
+
+ -10^9 < a, b < 10^9
+
+  ## arithmetic020
+Given a,b and c integer numbers.\
+Calculate the following expression
+
+
+<img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%20%5Cfrac%7Ba&plus;b%7D%7B2%5Ccdot%20c%20%7D" />
  
 
 **Example :**
