@@ -500,7 +500,7 @@ Calculate the following expression
 |   **Input**   |   **Output**    |
 |---------------|-----------------|
 |1 11 3             |0.9             |
-|2 4 6              |0                 |
+|2 4 6              |0.0                 |
 
 **Constraints:** 
 
