@@ -477,7 +477,7 @@ Calculate the following expression
 
 |   **Input**   |   **Output**    |
 |---------------|-----------------|
-|1 11 3             |30.125             |
+|1 11 3             |-30.125             |
 |2 4 6              |-1.07                 |
 
 **Constraints:** 
