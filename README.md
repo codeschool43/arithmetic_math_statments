@@ -234,8 +234,8 @@ Calculate the following expression
 
 |   **Input**   |   **Output**    |
 |---------------|-----------------|
-|2 4             |36                  |
-|12 3            |225                 |
+|2 4             |-12                  |
+|12 3            |135                 |
 
 **Constraints:** 
 
