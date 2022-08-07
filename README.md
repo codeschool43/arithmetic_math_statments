@@ -982,7 +982,7 @@ Calculate the following expression
 
 |   **Input**   |   **Output**    |
 |---------------|-----------------|
-|2 4            |8232              |
+|2 4            |2197              |
 
 **Constraints:** 
 
