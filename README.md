@@ -1067,7 +1067,7 @@ Calculate the following expression
 
 |   **Input**   |   **Output**    |
 |---------------|-----------------|
-|2 4            |0              |
+|2 4            |0.0              |
 
 **Constraints:** 
 
