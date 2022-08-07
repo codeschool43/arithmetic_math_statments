@@ -821,7 +821,7 @@ Given a and b integer numbers.\
 Calculate the following expression
 
 
-<img src="https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B120%7D%20%5CLARGE%202%5Ccdot%5Cfrac%7Ba%5Eb%7D%7Ba&plus;b%7D" />
+<img src="https://latex.codecogs.com/gif.latex?2%5Ccdot%20%28%5Cfrac%7Ba%5E%7Bb%7D%7D%7Ba%5Ccdot%20b%7D%29" />
  
 
 **Example :**
@@ -831,8 +831,8 @@ Calculate the following expression
 
 |   **Input**   |   **Output**    |
 |---------------|-----------------|
-|2 4            |21.3              |
-|2 6            |16.0               |
+|2 4            |4.0              |
+|2 6            |10.66               |
 
 **Constraints:** 
 
